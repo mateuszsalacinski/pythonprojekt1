@@ -1,0 +1,1 @@
+# pythonprojekt1arkagdyniakurwaswiniapoloniakpoloniaspoloniazawszekurwajest
