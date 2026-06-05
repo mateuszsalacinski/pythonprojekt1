@@ -1,0 +1,40 @@
+START;0;0;start;none
+Ulica Konopacka;60;2;street;brown
+Kasa Spoleczna;0;0;community_chest;none
+Ulica Stalowa;60;4;street;brown
+Podatek Dochodowy;0;200;tax;none
+Dworzec Zachodni;200;25;station;none
+Ulica Radzyminska;100;6;street;light_blue
+Szansa;0;0;chance;none
+Ulica Jagiellonska;100;6;street;light_blue
+Ulica Targowa;120;8;street;light_blue
+Wiezienie;0;0;visit;none
+Ulica Plowiecka;140;10;street;pink
+Elektrownia;150;0;utility;none
+Ulica Marsa;140;10;street;pink
+Ulica Grochowska;160;12;street;pink
+Dworzec Gdanski;200;25;station;none
+Ulica Obozowa;180;14;street;orange
+Kasa Spoleczna;0;0;community_chest;none
+Ulica Gorczewska;180;14;street;orange
+Ulica Wolska;200;16;street;orange
+Bezplatny Parking;0;0;parking;none
+Ulica Mickiewicza;220;18;street;red
+Szansa;0;0;chance;none
+Ulica Slowackiego;220;18;street;red
+Plac Wilsona;240;20;street;red
+Dworzec Wschodni;200;25;station;none
+Ulica Swietokrzyska;260;22;street;yellow
+Krakowskie Przedmiescie;260;22;street;yellow
+Wodociagi;150;0;utility;none
+Ulica Nowy Swiat;280;24;street;yellow
+Idziesz do Wiezienia;0;0;go_to_jail;none
+Plac Trzech Krzyzy;300;26;street;green
+Ulica Marszalkowska;300;26;street;green
+Kasa Spoleczna;0;0;community_chest;none
+Aleje Jerozolimskie;320;28;street;green
+Dworzec Centralny;200;25;station;none
+Szansa;0;0;chance;none
+Ulica Belwederska;350;35;street;dark_blue
+Domiar Podatkowy;0;100;tax;none
+Aleje Ujazdowskie;400;50;street;dark_blue
