@@ -11,7 +11,7 @@ Tekstowa gra bezpośrednio w interfejsie napisana w języku Python.
 ## Uruchomienie
 1. Upewnij się, że masz zainstalowanego Pythona w jak najnowszej wersji. 
 2. Umieść wszystkie pliki w jednym folderze.
-3. Uruchom grę wpis: ``` python game.py ```
+3. Uruchom grę wpisując: ``` python game.py ```
 
 ## Jak grać?
 - 2-4 graczy
